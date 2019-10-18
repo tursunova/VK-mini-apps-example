@@ -31,7 +31,7 @@ Run the project:
 npm start
 ```
 
-### Configure mini apps project
+### Configure VK mini apps project
 
 Replace URL for developers field to
 
