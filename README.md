@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-Install Node.js
+Install Node.js using the link https://nodejs.org/en/
 
 ### Installing
 
