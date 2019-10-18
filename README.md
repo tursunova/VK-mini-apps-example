@@ -31,4 +31,12 @@ Run the project:
 npm start
 ```
 
+###Configure VK mini apps project
 
+Replace URL for developers field to
+
+```
+http://{your_ip}:{PORT}/
+```
+
+Use the port specified in the package.json file (default value 10888)
