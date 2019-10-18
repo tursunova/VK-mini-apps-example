@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-## Getting Started
+### Prerequisites
 
 Install Node.js
 
