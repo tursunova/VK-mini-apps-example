@@ -1,0 +1,1 @@
+# VK-mini-apps-example
